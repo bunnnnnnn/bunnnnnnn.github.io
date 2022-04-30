@@ -1,15 +1,17 @@
 ---
 layout: post
-title: Github
+title: License Management
 img: "assets/img/portfolio/github.png"
-date: 20-10-2017
 tags: [Lorem]
 ---
 
 ![image]({{ page.img | relative_url }})
-**Sample type**: Documentation/Marketing
+**Sample type**: Documentation
 
-This sample explains the guiding principles and major responsibilities of the VMware CRE team for potential customers. 
+This sample contains three corresponding documents explaining the tripartite segments of the License Management feature, a new function for Content Manager.
+* License Management
+* License Exchange Matrices
+* License Status
 
 [Download the PDF](link)
 

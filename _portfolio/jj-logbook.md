@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Tower of Hanoi
+title: Logbook Schedule in mobile app doesn't match Time Slots Schedule on web (Mobile 2.2.x - iOS)
 img: "assets/img/portfolio/toh.png"
-date: September 2014
 ---
 
 ![image]({{ page.img | relative_url }})
 
-**Sample type**: Documentation/Marketing
+**Sample type**: Documentation/Support
 
-This sample explains the guiding principles and major responsibilities of the VMware CRE team for potential customers. 
+This sample explains troubleshooting procedures for for a mobile/web app syncing issue with OneTouch software. The audience was OneTouch Customer Care. 
 
 [Download the PDF](link)
 

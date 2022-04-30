@@ -1,16 +1,15 @@
 ---
 layout: post
-title: Circus
+title: Adding a field
 img: "assets/img/portfolio/circus.png"
-date: September 2014
 tags: [Ipsum]
 ---
 
 ![image]({{ page.img | relative_url }})
 
-**Sample type**: Documentation/Marketing
+**Sample type**: Documentation/How-to
 
-This sample explains the guiding principles and major responsibilities of the VMware CRE team for potential customers. 
+This sample is a quick how-to that demonstrates adding a field to an existing model and customizing its variables in Master Data Hub. 
 
 [Download the PDF](link)
 

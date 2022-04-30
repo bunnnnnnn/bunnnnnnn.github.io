@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Creative
+title: Repository page
 feature-img: "assets/img/portfolio/safe.png"
 img: "assets/img/portfolio/safe.png"
-date: August, 16 2014
 tags: [Ipsum]
 ---
 
+**Sample type**: Documentation
 
-**Sample type**: Documentation/Marketing
-
-This sample explains the guiding principles and major responsibilities of the VMware CRE team for potential customers. 
+This sample provides a brief overview of the UI and functions of Master Data Hub's Repository page. 
 
 [Download the PDF](link)

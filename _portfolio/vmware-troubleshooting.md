@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Tic tac toe
+title: Initial Troubleshooting Guide
 feature-img: "assets/img/portfolio/ttt.png"
 img: "assets/img/portfolio/ttt.png"
-date: September 2014
----
-**Sample type**: Documentation/Marketing
 
-This sample explains the guiding principles and major responsibilities of the VMware CRE team for potential customers. 
+---
+**Sample type**: Documentation
+
+This sample provides an overview of recommendations for regular maintenance and diagnostics of a Kubernetes cluster, for the less experienced customer.
 
 [Download the PDF](link)
 

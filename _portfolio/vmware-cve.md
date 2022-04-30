@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Lorem Ipsum
+title: Upstream CVEs
 feature-img: "assets/img/portfolio/submarine.png"
 img: "assets/img/portfolio/submarine.png"
-date: 2017-09-03
 ---
 
-**Sample type**: Documentation/Marketing
+**Sample type**: Documentation
 
-This sample explains the guiding principles and major responsibilities of the VMware CRE team for potential customers. 
+This sample provides a summary of vulnerabilities that can affect a customer's Kubernetes cluster, and recommended remediation steps. 
 
 [Download the PDF](link) 
