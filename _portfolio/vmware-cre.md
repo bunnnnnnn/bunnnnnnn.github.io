@@ -10,4 +10,4 @@ tags: [Lorem, Ipsum]
 
 This sample explains the guiding principles and major responsibilities of the VMware CRE team for potential customers. 
 
-[Download the PDF](link)
+[Download the PDF](_portfolio/vmware-cre.pdf)

@@ -10,4 +10,4 @@ tags: [Ipsum]
 
 This sample provides a brief overview of the UI and functions of Master Data Hub's Repository page. 
 
-[Download the PDF](link)
+[Download the PDF](_portfolio/boomi-repository.pdf)

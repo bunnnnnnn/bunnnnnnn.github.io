@@ -9,4 +9,4 @@ img: "assets/img/portfolio/upstream-cves-screenshot.png"
 
 This sample provides a summary of vulnerabilities that can affect a customer's Kubernetes cluster, and recommended remediation steps. 
 
-[Download the PDF](link) 
+[Download the PDF](_portfolio/vmware-cve.pdf) 
