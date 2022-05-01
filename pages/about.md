@@ -16,6 +16,8 @@ I have a lot of random obsessions. I won't/can't list them all:
 * Coffee/home setups
 * Gaming
 * PC building
+* One Wheeling/E-Unicycles
 * Trying obscure snack foods
+* Aerial sports
 * Solar firestarters
 * All things cute
