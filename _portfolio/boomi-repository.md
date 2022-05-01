@@ -10,4 +10,4 @@ tags: [Ipsum]
 
 This sample provides a brief overview of the UI and functions of Master Data Hub's Repository page. 
 
-[Download the PDF](_portfolio/boomi-repository.pdf)
+<a href="https://raw.githubusercontent.com/bunnnnnnn/bunnnnnnn.github.io/main/_portfolio/boomi-repository.pdf" download>Download the PDF</a>

@@ -13,5 +13,5 @@ This sample contains three corresponding documents explaining the tripartite seg
 * License Exchange Matrices
 * License Status
 
-[Download the PDF](_portfolio/scala-license-management.pdf)
+<a href="https://raw.githubusercontent.com/bunnnnnnn/bunnnnnnn.github.io/main/_portfolio/scala-license-management.pdf" download>Download the PDF</a>
 

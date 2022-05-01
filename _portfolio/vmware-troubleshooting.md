@@ -9,5 +9,5 @@ img: "assets/img/portfolio/troubleshooting-screenshot.png"
 
 This sample provides an overview of recommendations for regular maintenance and diagnostics of a Kubernetes cluster, for the less experienced customer.
 
-[Download the PDF](_portfolio/vmware-troubleshooting.pdf)
+<a href="https://raw.githubusercontent.com/bunnnnnnn/bunnnnnnn.github.io/main/_portfolio/vmware-troubleshooting.pdf" download>Download the PDF</a>
 

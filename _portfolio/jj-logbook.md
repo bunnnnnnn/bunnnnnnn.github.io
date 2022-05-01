@@ -10,5 +10,5 @@ img: "assets/img/portfolio/logbook schedule.png"
 
 This sample explains troubleshooting procedures for for a mobile/web app syncing issue with OneTouch software. The audience was OneTouch Customer Care. 
 
-[Download the PDF](_portfolio/jj-logbook.pdf)
+<a href="https://raw.githubusercontent.com/bunnnnnnn/bunnnnnnn.github.io/main/_portfolio/jj-logbook.pdf" download>Download the PDF</a>
 

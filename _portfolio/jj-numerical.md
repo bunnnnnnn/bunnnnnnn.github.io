@@ -11,5 +11,5 @@ tags: [Lorem]
 
 This sample explains troubleshooting procedures for an issue with incorrect numerical values in the OneTouch web and mobile apps.The audience was OneTouch Customer Care.
 
-[Download the PDF](_portfolio/jj-numerical.pdf)
+<a href="https://raw.githubusercontent.com/bunnnnnnn/bunnnnnnn.github.io/main/_portfolio/jj-numerical.pdf" download>Download the PDF</a>
 
