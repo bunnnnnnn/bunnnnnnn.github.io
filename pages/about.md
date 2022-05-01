@@ -1,14 +1,21 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+My ideal work culture encourages creativity and collaboration, and provides plenty of opportunities for growth. I work best in environments that are psychologically safe and 
+uphold a fair work-life balance. ​
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+I have a lot of random obsessions. I won't/can't list them all:
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+* [Write the Docs](https://www.writethedocs.org/)
+* Reading (any genre, but mainly sci-fi)
+* Coffee/home setups
+* Gaming
+* PC building
+* Trying obscure snack foods
+* Solar firestarters
+* All things cute
