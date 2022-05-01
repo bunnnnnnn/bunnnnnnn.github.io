@@ -1,7 +1,7 @@
 ---
 layout: post
 title: License Management
-img: "assets/img/portfolio/github.png"
+img: "assets/img/resume/License Management screenshot.png"
 tags: [Lorem]
 ---
 

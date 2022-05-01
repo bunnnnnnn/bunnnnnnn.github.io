@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Logbook Schedule in mobile app doesn't match Time Slots Schedule on web (Mobile 2.2.x - iOS)
-img: "assets/img/portfolio/toh.png"
+img: "assets/img/resume/logbook schedule.png"
 ---
 
 ![image]({{ page.img | relative_url }})

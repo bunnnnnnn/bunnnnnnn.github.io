@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Repository page
-feature-img: "assets/img/portfolio/safe.png"
-img: "assets/img/portfolio/safe.png"
+feature-img: "assets/img/resume/repository-page-screenshot.png"
+img: "assets/img/resume/repository-page-screenshot.png"
 tags: [Ipsum]
 ---
 

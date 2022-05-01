@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Upstream CVEs
-feature-img: "assets/img/portfolio/submarine.png"
-img: "assets/img/portfolio/submarine.png"
+feature-img: "assets/img/resume/upstream-cves-screenshot.png"
+img: "assets/img/resume/upstream-cves-screenshot.png"
 ---
 
 **Sample type**: Documentation
