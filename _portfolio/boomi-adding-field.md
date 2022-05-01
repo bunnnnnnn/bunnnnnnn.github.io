@@ -11,5 +11,5 @@ tags: [Ipsum]
 
 This sample is a quick how-to that demonstrates adding a field to an existing model and customizing its variables in Master Data Hub. 
 
-<a href="/_files/boomi-adding-field.pdf" download>Download the PDF</a>
+<a href="https://raw.githubusercontent.com/bunnnnnnn/bunnnnnnn.github.io/main/_portfolio/boomi-adding-field.pdf" download>Download the PDF</a>
 
