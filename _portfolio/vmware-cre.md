@@ -2,7 +2,7 @@
 layout: post
 title: What is VMware CRE?
 feature-img: "assets/img/portfolio/what-cre-screenshot-border.png"
-img: "assets/img/portfolio/what-cre-screenshot.png"
+img: "assets/img/portfolio/what-cre-screenshot-border.png"
 tags: [Lorem, Ipsum]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Initial Troubleshooting Guide
 feature-img: "assets/img/portfolio/troubleshooting-screenshot-border.png"
-img: "assets/img/portfolio/troubleshooting-screenshot.png"
+img: "assets/img/portfolio/troubleshooting-screenshot-border.png"
 
 ---
 **Sample type**: Documentation
