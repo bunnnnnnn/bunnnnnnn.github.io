@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adding a field
-img: "assets/img/resume/adding-a-field-screenshot.png"
+img: "assets/img/portfolio/adding-a-field-screenshot.png"
 tags: [Ipsum]
 ---
 

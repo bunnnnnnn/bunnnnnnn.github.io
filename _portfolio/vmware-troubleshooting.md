@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Initial Troubleshooting Guide
-feature-img: "assets/img/resume/troubleshooting-screenshot.png"
-img: "assets/img/resume/troubleshooting-screenshot.png"
+feature-img: "assets/img/portfolio/troubleshooting-screenshot.png"
+img: "assets/img/portfolio/troubleshooting-screenshot.png"
 
 ---
 **Sample type**: Documentation
