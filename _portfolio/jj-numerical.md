@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Incorrect numerical values on patterns report (Mobile 2.2.x)
-img: "assets/img/portfolio/incorrect numerical values.png"
+img: "assets/img/portfolio/incorrect-numerical-values-border.png"
 tags: [Lorem]
 ---
 
