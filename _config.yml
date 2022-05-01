@@ -3,6 +3,7 @@ baseurl: "/kghopson-things"
 url: "bunnnnnnn.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
+remote_theme: sylhare/Type-on-Strap
 title: Kghopson Things                                    # site's title
 description: "My portfolio and things"      # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
