@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll
+title: Lucid.anda Connector Framework
 img: "assets/img/portfolio/lucidanda.png"
 date: 2017-05-26
 ---

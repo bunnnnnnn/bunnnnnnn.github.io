@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jekyll
+title: Creating the Upload Model Parameters to Cloud Job
 img: "assets/img/portfolio/upload-model.png"
 date: 2017-05-26
 ---
