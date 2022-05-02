@@ -8,7 +8,7 @@ img: "assets/img/portfolio/logbook-schedule-border.png"
 
 **Sample type**: Documentation/Support
 
-This sample explains troubleshooting procedures for for a mobile/web app syncing issue with OneTouch software. The audience was OneTouch Customer Care. 
+This sample explains troubleshooting procedures for a mobile/web app syncing issue with OneTouch software. The audience was OneTouch Customer Care. 
 
 <a href="https://raw.githubusercontent.com/bunnnnnnn/bunnnnnnn.github.io/main/_portfolio/jj-logbook.pdf" download>Download the PDF</a>
 
