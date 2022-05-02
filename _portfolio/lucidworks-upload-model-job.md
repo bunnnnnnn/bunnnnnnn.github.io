@@ -10,4 +10,4 @@ date: 2017-05-26
 
 This sample shows users how to create and deploy the Upload Model Parameters to Cloud job, a new feature with the release of Fusion 5.4.
 
-[Download the PDF](link)
+[Download the PDF](https://raw.githubusercontent.com/bunnnnnnn/bunnnnnnn.github.io/main/_portfolio/lucidworks-upload-model-job.pdf)

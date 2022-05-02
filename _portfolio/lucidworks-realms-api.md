@@ -10,5 +10,5 @@ date: 2017-05-26
 
 This sample provides and overview of the Realm types available for Fusion, as well as the configuration schema and some example calls. It is powered by Swagger, our first attempt at a better API documentation system.  
 
-[Download the PDF](link)
+[Download the PDF](https://raw.githubusercontent.com/bunnnnnnn/bunnnnnnn.github.io/main/_portfolio/lucidworks-realms-api.pdf)
 
