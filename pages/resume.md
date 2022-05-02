@@ -2,10 +2,10 @@
 layout: post
 title: Resume
 permalink: /resume/
-feature-img: "assets/img/portfolio/troubleshooting-screenshot-border.png"
-img: "assets/img/resume/resume-screenshot.png"
+img: "assets/img/portfolio/repository-page-screenshot-border.png"
 tags: [Page]
 ---
+![image]({{ page.img | relative_url }})
 
 <p align= "center">
 One day, I will add my resume in pure markdown. Until then, view the image or <a href="https://raw.githubusercontent.com/bunnnnnnn/bunnnnnnn.github.io/main/_resume/kghopson-resume-2022.pdf" 

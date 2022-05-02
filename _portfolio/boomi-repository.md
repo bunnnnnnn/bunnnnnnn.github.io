@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Repository page
-img: "assets/img/portfolio/cabin.png"
+img: "assets/img/portfolio/repository-page-screenshot-border.png"
 tags: [Ipsum]
 ---
 ![image]({{ page.img | relative_url }})
