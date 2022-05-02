@@ -4,6 +4,7 @@ title: What is VMware CRE?
 img: "assets/img/portfolio/what-cre-screenshot-border.png"
 tags: [Lorem, Ipsum]
 ---
+![image]({{ page.img | relative_url }})
 
 **Sample type**: Documentation/Marketing
 

@@ -3,6 +3,7 @@ layout: post
 title: Upstream CVEs
 img: "assets/img/portfolio/upstream-cves-screenshot-border.png"
 ---
+![image]({{ page.img | relative_url }})
 
 **Sample type**: Documentation
 

@@ -4,6 +4,7 @@ title: Jekyll
 img: "assets/img/portfolio/cabin.png"
 date: 2017-05-26
 ---
+![image]({{ page.img | relative_url }})
 
 **Sample type**: Documentation/Marketing
 
