@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Upstream CVEs
-feature-img: "assets/img/portfolio/upstream-cves-screenshot-border.png"
 img: "assets/img/portfolio/upstream-cves-screenshot-border.png"
 ---
 
